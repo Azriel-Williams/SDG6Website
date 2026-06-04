@@ -44,4 +44,5 @@ Diploma in Software Engineering
 University of Trinidad and Tobago
 
 ## Live Website
-[View Website](PUT_GITHUB_PAGES_LINK_HERE)
+[View Website] https://azriel-williams.github.io/SDG6Website/
+
