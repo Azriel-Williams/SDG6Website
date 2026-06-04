@@ -1,3 +1,5 @@
+![SDG6 Website Banner](assets/banner.png)
+
 # SDG 6 Awareness Website
 
 ## Overview
